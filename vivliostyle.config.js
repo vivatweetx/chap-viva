@@ -30,6 +30,7 @@ const def = {
 	"chap-template.md",
 	"chap-dpon.md",
 	"chap-ryo.md",
+  "chap-forte.md",
 
 
     // 第二部 Vivliostyleについて
