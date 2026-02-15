@@ -6,7 +6,7 @@ class: chapter
 # 最大のアウトプット術は問題を作ること
 
 <div class="flush-right">
-DPon@@DPontaro  
+RYO@RYO_nami
 </div>
 
 
