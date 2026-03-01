@@ -44,6 +44,7 @@ const def = {
 	"chap-mobengineer.md",
 	"chap-sakku.md",
 	"chap-sudoakiy.md",
+	"chap-uhoshi.md",
 
     // 後書き
     "90-postscript.md",
