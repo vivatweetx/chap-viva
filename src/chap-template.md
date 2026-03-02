@@ -16,7 +16,8 @@ class: chapter
 
 ## 2つ目の節の見出し
 
-#### 著者紹介
+#### 本章の執筆者
+
 
 <div class="author-profile">
     <img src="images/oyakata.jpg">

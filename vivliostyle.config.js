@@ -7,10 +7,7 @@ const def = {
   author: "oyakata <oyakata2438@gmail.com>", // default to `author` in `package.json` or undefined.
   language: "ja", // default to undefined.
   size: "JIS-B5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
-  theme: [
-    "./fonts",
-    "./theme-nice-techbook2",
-  ],
+  theme: ["./fonts", "./theme-nice-techbook2"],
   entry: [
     // 表紙
     // { rel: "cover" },
@@ -26,7 +23,7 @@ const def = {
 
     // 第一部 とにかく楽をする
     "part-easy.md",
-	  "chap-info-about.md",
+    "chap-info-about.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
@@ -39,8 +36,21 @@ const def = {
     "chap-forte.md",
     "chap-fumiyasac.md",
     "chap-yumechi.md",
-    "chap-kouno.md",
     "chap-uemu-enginner.md",
+    "chap-mae616.md",
+    "chap-kouno.md",
+    "chap-viva.md",
+    "chap-syossan27.md",
+    "chap-comi-cnannotOutput.md",
+    "chap-takahashin-inputnooutput.md",
+    "chap-koizumi-todan.md",
+    "chap-mobengineer.md",
+    "chap-sakku.md",
+    "chap-sudoakiy.md",
+    "chap-yuni.md",
+    "chap-uhoshi.md",
+    "chap-taniori.md",
+    "chap-yurimiya.md",
     // サポーター/スポンサーの寄稿
     "chap-kouno-supporter.md",
     // 後書き
@@ -88,3 +98,4 @@ if (isPrint) {
 }
 
 export default def;
+
