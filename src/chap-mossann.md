@@ -69,6 +69,7 @@ Bは機能の割に値段が高くてダメなので、Aがオススメ
 #### 著者紹介
 
 <div class="author-profile">
+    <img src="images/mossan.jpg">
     <div>
         <div>
             <b>もっさん</b>
