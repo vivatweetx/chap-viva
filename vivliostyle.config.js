@@ -27,8 +27,6 @@ const def = {
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
-    "chap-introduction.md",
-    "chap-template.md",
     "chap-dpon.md",
     "chap-ryo.md",
     "chap-aizack.md",
